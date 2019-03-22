@@ -1,0 +1,26 @@
+﻿  Assets.cpp
+  Camera.cpp
+  GameTimer.cpp
+  Keyboard.cpp
+  Maths.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  MeshGeometry.cpp
+  Mouse.cpp
+  Plane.cpp
+  Quaternion.cpp
+  RendererBase.cpp
+  ShaderBase.cpp
+  SimpleFont.cpp
+  TextureBase.cpp
+  TextureLoader.cpp
+  TextureWriter.cpp
+  Win32Keyboard.cpp
+  Win32Mouse.cpp
+  Compiling...
+  Win32Window.cpp
+c:\users\b8062133\gametech\common\win32window.cpp(129): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\b8062133\gametech\common\win32window.cpp(130): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+  Window.cpp
+  Common.vcxproj -> C:\Users\b8062133\GameTech\Win32\Release\Common.lib

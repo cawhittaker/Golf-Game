@@ -1,0 +1,13 @@
+﻿  CollisionDetection.cpp
+  GJKAlgorithm.cpp
+  GameObject.cpp
+  GameServer.cpp
+  GameWorld.cpp
+c:\users\b8062133\gametech\csc8503\csc8503common\gameworld.cpp(32): warning C4150: deletion of pointer to incomplete type 'NCL::CSC8503::Constraint'; no destructor called
+  c:\users\b8062133\gametech\csc8503\csc8503common\gameworld.h(11): note: see declaration of 'NCL::CSC8503::Constraint'
+  NetworkObject.cpp
+  PhysicsObject.cpp
+  PhysicsSystem.cpp
+  PositionConstraint.cpp
+  RenderObject.cpp
+  CSC8503Common.vcxproj -> C:\Users\b8062133\GameTech\Win32\Release\CSC8503Common.lib

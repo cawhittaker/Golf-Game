@@ -1,0 +1,23 @@
+50
+20
+20
+X X X X X X X X X X X X X X X X X X X X
+X s . . . . . . . . . . . . . . . . . X
+X . . . . . . . . x x . . . . . . . . X
+X . . . . x x x x x x . . . . x x x x X
+X . . . . . . . . x x . . . . . . . . X
+X x x x x x . . . . . x x x x x . . . X
+X . . . . . . x x x . . . . . . . x x X
+X . . x x x x x x x x . . x x x x x x X
+X . . . . . . . . x x . . . . . . . . X
+X x x . . x x x x x x x x x . . x x x X
+X x x . . x x x x x x x x x . . x x x X
+X M . . . . . . . . . . . . . . . . . X
+X . . . . . . . . x x . . . . . . . . X
+X . . . . x x x x x x . . . . x x x x X
+X . . . . . . . . x x . . . . . . . . X
+X x x x x x . . . x x x x x x x . . . X
+X . . . . . . x x x x . . . . . . x x X
+X . . x x x x x g x x . . x x x x x x X
+X . . . . . . . . . . . . . . . . . . X
+X X X X X X X X X X X X X X X X X X X X
